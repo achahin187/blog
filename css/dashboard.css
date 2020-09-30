@@ -1,0 +1,50 @@
+/*--- color=#343a40---*/
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+#side-area {
+    background-color: #343a40de;
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 3px solid whitesmoke;
+}
+
+#side-area h4 {
+    text-align: center;
+    color: white;
+}
+
+.side {
+    list-style: none;
+}
+
+.side li a {
+    padding: 5px;
+    color: whitesmoke;
+}
+
+li a:hover {
+    text-decoration: none;
+}
+
+#menu {
+    list-style: none;
+    padding: 0px;
+}
+
+
+/*------------------*/
+
+
+/*---- main area---*/
+
+#main-area {
+    padding: 70px;
+}
+
+.add-category {
+    margin: 10px;
+}

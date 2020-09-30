@@ -1,0 +1,146 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu {
+    margin: 10px;
+}
+
+.content {
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-right: 150px;
+}
+
+.content .post {
+    text-align: center;
+    background-color: rgba(219, 216, 198, 0.753);
+    padding: 20px 22px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding-left: 0;
+    padding-right: 200px;
+}
+
+.post .post-img {
+    width: 90%;
+}
+
+.post .post-title {
+    margin: 10px 0;
+}
+
+img {
+    width: 90%;
+    height: 300px;
+}
+
+.post-info {
+    margin-left: 15px;
+    padding: 10PX;
+    text-align: left;
+}
+
+.post-info span {
+    margin-left: 10px;
+    color: rgba(61, 56, 131, 0.342);
+}
+
+span i {
+    margin-right: 10px;
+}
+
+
+/*end content*/
+
+
+/*--start side bar--*/
+
+.categories {
+    background-color: whitesmoke;
+    padding: 10px;
+    border-bottom: 2px solid #eaeaea;
+    margin-bottom: 10px;
+}
+
+.categories h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 10 5px;
+}
+
+.categories ul {
+    list-style: none;
+    padding-left: 0;
+    border-top: 1px solid #eaeaea;
+    border-left: 1px solid #eaeaea;
+}
+
+.categories ul li {
+    padding: 10 5px;
+}
+
+.categories ul li a i {
+    color: black;
+}
+
+.categories ul li a span {
+    color: blue;
+}
+
+.categories ul li a span:hover {
+    color: black;
+}
+
+
+/*-- end side bar--*/
+
+
+/*-- last posts--*/
+
+.last-posts {
+    background-color: whitesmoke;
+    border-top: 1px solid #EAEAea;
+    padding: 10px 5px;
+}
+
+.last-posts ul li span h4 {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.last-posts ul li span h4 :hover {
+    color: darkgray;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.last-posts ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.last-posts ul li {
+    border-bottom: solid 1px palegoldenrod;
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
+
+.last-posts ul li :first-child {
+    border-top: 1px solid wheat;
+}
+
+.last-posts ul li :last-child {
+    border-bottom: 0;
+}
+
+
+/*-------*/
+
+
+/*------- */
